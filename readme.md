@@ -23,7 +23,7 @@ Esta aplicação é uma ferramenta interativa para localização de endereços, 
 ## 🔧 Como rodar o projeto
 1. Clone o repositório:
    ```bash 
-   git clone [https://github.com/igoriansen/cep-consultant-atv2.git](https://github.com/igoriansen/cep-consultant-atv2.git)
+   git clone https://github.com/igoriansen/cep-consultant-atv2.git
 
 2. Vá para a pasta do repositório:
     ```bash
